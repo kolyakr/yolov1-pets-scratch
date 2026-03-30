@@ -1,0 +1,1 @@
+from .index import parse_all_xmls
