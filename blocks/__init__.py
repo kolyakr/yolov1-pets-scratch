@@ -1,1 +1,2 @@
 from .CatDogDataset import CatDogDataset
+from .DetectionHead import DetectionHead
